@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: a1ebc0b98fbcf8a41bc933a31a466496
+timeCreated: 1558892432
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arachnid_Arms_Mesh
+    100002: Arachnid_Body_Mesh
+    100004: //RootNode
+    100006: Arachnid_Legs_Mesh
+    100008: CATRigHub001
+    100010: CATRigHub001Bone002
+    100012: CATRigHub001Bone003
+    100014: CATRigHub001Bone004
+    100016: CATRigHub001Bone005
+    100018: CATRigHub001Bone005Bone001
+    100020: CATRigHub001Bone005Bone001Bone001
+    100022: CATRigHub001Bone005Bone001Bone001Bone001
+    100024: CATRigHub001Bone005Bone001Bone001Bone002
+    100026: CATRigHub001Bone005Bone001Bone002
+    100028: CATRigHub001Bone005Bone002
+    100030: CATRigHub001Bone005Bone002Bone001
+    100032: CATRigHub001Bone005Bone002Bone001Bone002
+    100034: CATRigHub001Bone005Bone002Bone001Bone003
+    100036: CATRigHub001Bone005Bone002Bone002
+    100038: CATRigHub001Bone005Bone003
+    100040: CATRigLLeg1
+    100042: CATRigLLeg2
+    100044: CATRigLLeg3
+    100046: CATRigLLeg4
+    100048: CATRigLLeg5
+    100050: CATRigLLeg6
+    100052: CATRigLLegAnkle1
+    100054: CATRigLLegAnkle2
+    100056: CATRigLLegAnkle3
+    100058: CATRigLLegPlatform1
+    100060: CATRigLLegPlatform2
+    100062: CATRigLLegPlatform3
+    100064: CATRigRLeg10
+    100066: CATRigRLeg11
+    100068: CATRigRLeg12
+    100070: CATRigRLeg7
+    100072: CATRigRLeg8
+    100074: CATRigRLeg9
+    100076: CATRigRLegAnkle4
+    100078: CATRigRLegAnkle5
+    100080: CATRigRLegAnkle6
+    100082: CATRigRLegPlatform4
+    100084: CATRigRLegPlatform5
+    100086: CATRigRLegPlatform6
+    100088: Character001
+    400000: Arachnid_Arms_Mesh
+    400002: Arachnid_Body_Mesh
+    400004: //RootNode
+    400006: Arachnid_Legs_Mesh
+    400008: CATRigHub001
+    400010: CATRigHub001Bone002
+    400012: CATRigHub001Bone003
+    400014: CATRigHub001Bone004
+    400016: CATRigHub001Bone005
+    400018: CATRigHub001Bone005Bone001
+    400020: CATRigHub001Bone005Bone001Bone001
+    400022: CATRigHub001Bone005Bone001Bone001Bone001
+    400024: CATRigHub001Bone005Bone001Bone001Bone002
+    400026: CATRigHub001Bone005Bone001Bone002
+    400028: CATRigHub001Bone005Bone002
+    400030: CATRigHub001Bone005Bone002Bone001
+    400032: CATRigHub001Bone005Bone002Bone001Bone002
+    400034: CATRigHub001Bone005Bone002Bone001Bone003
+    400036: CATRigHub001Bone005Bone002Bone002
+    400038: CATRigHub001Bone005Bone003
+    400040: CATRigLLeg1
+    400042: CATRigLLeg2
+    400044: CATRigLLeg3
+    400046: CATRigLLeg4
+    400048: CATRigLLeg5
+    400050: CATRigLLeg6
+    400052: CATRigLLegAnkle1
+    400054: CATRigLLegAnkle2
+    400056: CATRigLLegAnkle3
+    400058: CATRigLLegPlatform1
+    400060: CATRigLLegPlatform2
+    400062: CATRigLLegPlatform3
+    400064: CATRigRLeg10
+    400066: CATRigRLeg11
+    400068: CATRigRLeg12
+    400070: CATRigRLeg7
+    400072: CATRigRLeg8
+    400074: CATRigRLeg9
+    400076: CATRigRLegAnkle4
+    400078: CATRigRLegAnkle5
+    400080: CATRigRLegAnkle6
+    400082: CATRigRLegPlatform4
+    400084: CATRigRLegPlatform5
+    400086: CATRigRLegPlatform6
+    400088: Character001
+    2100000: 20 - Default
+    4300000: Arachnid_Legs_Mesh
+    4300002: Arachnid_Body_Mesh
+    4300004: Arachnid_Arms_Mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arachnid_Arms_Mesh
+    13700002: Arachnid_Body_Mesh
+    13700004: Arachnid_Legs_Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
